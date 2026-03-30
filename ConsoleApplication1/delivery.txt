@@ -1,0 +1,36 @@
+5
+Pupkin Mykola
+Kubalchucha str, 15
+123458
+2026
+8
+30
+true
+Franko Ivan
+Sklyarenka str, 15
+3657198
+2026
+5
+23
+false
+Franko Ivan
+Borodina str, 3
+123459
+2025
+8
+30
+true
+Shevchenko Taras
+Lavruhina str, 7
+123457
+2019
+8
+30
+true
+Kozlovsiy Myhaylo
+Onore de Balsaka str, 17
+123460
+2016
+8
+31
+true
